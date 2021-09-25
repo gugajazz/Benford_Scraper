@@ -8,7 +8,7 @@ Benford.py then plots them on a graph comparing it to what would be expected if 
 Due to the volatile nature of scrapping from a website I don't control slight changes might be necessary to the code to keep it working but so far that hasen't happened.
  
 ## Running it
-The required libraries are: ```requests```, ```bs4```, ```lxml```, ```numpy``` and ```matplotlib```.
+The required libraries are: ```requests```, ```bs4```, ```lxml```, ```numpy``` and ```matplotlib```. <br>
 Run first Scrapper.py in order to update the data according to the website, folowed by Benford.py.
 
 ## Images
